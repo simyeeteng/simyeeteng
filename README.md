@@ -6,7 +6,7 @@
 <p></p>Position : Part of TEDxUTM 2024 Graphic Design Department</p>
 <p>Softskills : Java , C++ , C</p>
 <p>Here's some of my certificate : </p>
-<[sijil emas gimrama.pdf](https://github.com/simyeeteng/simyeeteng/files/13365371/sijil.emas.gimrama.pdf)>
+<a href = "https://github.com/simyeeteng/simyeeteng/files/13365371/sijil.emas.gimrama.pdf ">cert</a>
 
 
 <!--

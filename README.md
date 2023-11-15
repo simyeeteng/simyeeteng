@@ -1,11 +1,11 @@
 ![header](https://github.com/simyeeteng/simyeeteng/assets/148403179/cc8ebef7-ea82-414d-8e4b-ab5e30dc8d0e)
 ### Hi there 👋
-P<I'm Sim Yee Teng currently studying at University Technology Malaysia.>
-P<First year Software Engineering student here>
-P<Position : Part of TEDxUTM 2024 Graphic Design Department>
-P<Softskills : Java , C++ , C>
+<p>I'm Sim Yee Teng currently studying at University Technology Malaysia.
+<p>First year Software Engineering student here</p>
+<p></p>Position : Part of TEDxUTM 2024 Graphic Design Department</p>
+<p>Softskills : Java , C++ , C</p>
 img<![passport pic](https://github.com/simyeeteng/simyeeteng/assets/148403179/3f91b833-700a-4cf2-b100-1dd0310e4bd6)> <align right>
-P<Here's some of my certificate : >
+<p>Here's some of my certificate : </p>
 <[sijil emas gimrama.pdf](https://github.com/simyeeteng/simyeeteng/files/13365371/sijil.emas.gimrama.pdf)>
 
 

@@ -4,7 +4,7 @@
 <p>First year Software Engineering student here</p>
 <p></p>Position : Part of TEDxUTM 2024 Graphic Design Department</p>
 <p>Softskills : Java , C++ , C</p>
-img<![passport pic](https://github.com/simyeeteng/simyeeteng/assets/148403179/3f91b833-700a-4cf2-b100-1dd0310e4bd6)> <align right>
+<img![passport pic](https://github.com/simyeeteng/simyeeteng/assets/148403179/3f91b833-700a-4cf2-b100-1dd0310e4bd6) align = "right" />
 <p>Here's some of my certificate : </p>
 <[sijil emas gimrama.pdf](https://github.com/simyeeteng/simyeeteng/files/13365371/sijil.emas.gimrama.pdf)>
 

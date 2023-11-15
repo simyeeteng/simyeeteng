@@ -1,4 +1,13 @@
+img<![header](https://github.com/simyeeteng/simyeeteng/assets/148403179/cc8ebef7-ea82-414d-8e4b-ab5e30dc8d0e)>
 ### Hi there 👋
+I'm Sim Yee Teng currently studying at University Technology Malaysia.
+First year Software Engineering student here
+Position : Part of TEDxUTM 2024 Graphic Design Department
+Softskills : Java , C++ , C
+img<![passport pic](https://github.com/simyeeteng/simyeeteng/assets/148403179/3f91b833-700a-4cf2-b100-1dd0310e4bd6)> <align right>
+Here's some of my certificate : 
+<[sijil emas gimrama.pdf](https://github.com/simyeeteng/simyeeteng/files/13365371/sijil.emas.gimrama.pdf)>
+
 
 <!--
 **simyeeteng/simyeeteng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

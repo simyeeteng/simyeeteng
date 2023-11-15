@@ -6,7 +6,7 @@
 <p></p>Position : Part of TEDxUTM 2024 Graphic Design Department</p>
 <p>Softskills : Java , C++ , C</p>
 <p>Here's some of my certificate : </p>
-<a href = "https://drive.google.com/file/d/1X7AhgR7Z9O82agog1d4no7xBPbpCAVUn/view?usp=sharing ">cert</a>
+<a href = "https://drive.google.com/file/d/1X7AhgR7Z9O82agog1d4no7xBPbpCAVUn/view?usp=sharing ">certificate</a>
 
 
 <!--

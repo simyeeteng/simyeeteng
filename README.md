@@ -4,7 +4,7 @@
 <p>I'm Sim Yee Teng currently studying at University Technology Malaysia.
 <p>Second year Software Engineering student here</p>
 <p></p>Position : Part of TEDxUTM 2025 Administration Department</p>
-<p>Softskills : Java , C++ , C , HTML , CSS , PHP</p>
+<p>Softskills : Java , C++ , C , HTML , CSS , PHP , mySQL</p>
 <p>Here's some of my certificate : </p>
 <a href = "https://drive.google.com/file/d/1X7AhgR7Z9O82agog1d4no7xBPbpCAVUn/view?usp=sharing ">certificate</a>
 
